@@ -93,8 +93,7 @@ print(a)
 a.pop()
 print(a)
 
-
- # Type Conversion in Python
+# Type Conversion in Python
 
 a = 10          # Integer
 b = 5.5         # Float
@@ -136,10 +135,6 @@ student = {
 }
 print (student)
 print (student["student marks"]["bio"])
-
-
-
-
 
 # # Dictionary Method
 
@@ -206,14 +201,14 @@ while i <= 100:
     
 
 # class     
-    # class  student:
-    #     name = "harshada"
-    #     age = 34
-    #     language = "python"
+    class  student:
+        name = "harshada"
+        age = 34
+        language = "python"
 
-    # print (student.name)
-    # print (student.age)
-    # print (student.language)
+    print (student.name)
+    print (student.age)
+    print (student.language)
 
 # object calling
 
